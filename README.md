@@ -9,4 +9,4 @@ Laboratory work on the subject: intelligent data analysis.
 5. [Fundamentals of statistical data analysis.](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/basics_of_statistical_data_analysis.ipynb) 
 6. [Linear discriminant analysis](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/LDA.ipynb)
 
-[individual work](https://github.com/highbrow-228/Intelligent-Data-Analysis/tree/main/individual-work) on the topic of
+[Individual work](https://github.com/highbrow-228/Intelligent-Data-Analysis/tree/main/individual-work) on the topic of
