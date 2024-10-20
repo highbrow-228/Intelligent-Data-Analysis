@@ -9,7 +9,7 @@ Laboratory work on the subject: intelligent data analysis.
 5. [Fundamentals of statistical data analysis.](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/basics_of_statistical_data_analysis.ipynb) 
 6. [Linear discriminant analysis](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/LDA.ipynb)
 
-7. Notebook
+7. [Notebook](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/regression_analysis_and_forecasting.ipynb):
     * Regression analysis and forecasting
     * Non-linear regression
 
