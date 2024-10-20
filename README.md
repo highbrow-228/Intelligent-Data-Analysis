@@ -15,4 +15,5 @@ Laboratory work on the subject: intelligent data analysis.
 
 
 
-[Individual work](https://github.com/highbrow-228/Intelligent-Data-Analysis/tree/main/individual-work) on the topic of: "*Detection of fraudulent transactions in banking operations using classification methods.*"
+[Individual work](https://github.com/highbrow-228/Intelligent-Data-Analysis/tree/main/individual-work) on the topic of: 
+"*Detection of fraudulent transactions in banking operations using classification methods.*"
