@@ -11,7 +11,8 @@ Laboratory work on the subject: intelligent data analysis.
 7. [Regression analysis and forecasting](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/regression_analysis_and_forecasting.ipynb):
     * Regression analysis and forecasting
     * Non-linear regression
-8. [Bayesian analysis]()
+8. [Bayesian analysis](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/bayesian_analysis.ipynb)
+9. [Time series forecasting](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/time_series_forecasting.ipynb)
 
 
 
