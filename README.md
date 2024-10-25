@@ -13,7 +13,7 @@ Laboratory work on the subject: intelligent data analysis.
     * Non-linear regression
 8. [Bayesian analysis](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/bayesian_analysis.ipynb)
 9. [Time series forecasting](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/time_series_forecasting.ipynb)
-10. [Text mining and web mining]()
+10. [Text mining and web mining](https://github.com/highbrow-228/Intelligent-Data-Analysis/blob/main/text_mining_and_web_mining.ipynb)
 
 
 
