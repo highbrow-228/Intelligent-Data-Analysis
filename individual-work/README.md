@@ -73,6 +73,6 @@ streamlit run main.py
 ```
 
 > NOTE: Щоб швидко протестувати модель:
-```bash
-python test.py
-```
+   ```bash
+   python test.py
+   ```
