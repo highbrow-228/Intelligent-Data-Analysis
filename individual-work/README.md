@@ -71,3 +71,8 @@ pip install pandas scikit-learn xgboost streamlit
 ```bash
 streamlit run main.py
 ```
+
+> NOTE: Щоб швидко протестувати модель:
+```bash
+python test.py
+```
